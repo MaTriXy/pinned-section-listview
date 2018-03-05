@@ -1,5 +1,13 @@
-bin
-gen
 .project
 .classpath
-.DS_Store
+.settings
+.idea/
+.gradle/
+
+local.properties
+*.iml
+
+**/.DS_Store
+**/build/
+**/gen/
+**/bin/
